@@ -1,4 +1,4 @@
-# DataCollectionScript-CS314-
+# DataCollectionScript-CS314:
 ## Automate server testing
 ####  Info
 - Run this script to produce and graph computation times of Nearest neighbour and 3-Opt.
